@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\bin\Debug\net6.0\Probnaya.exe
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\bin\Debug\net6.0\Probnaya.deps.json
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\bin\Debug\net6.0\Probnaya.runtimeconfig.json
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\bin\Debug\net6.0\Probnaya.dll
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\bin\Debug\net6.0\Probnaya.pdb
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\obj\Debug\net6.0\Probnaya.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\obj\Debug\net6.0\Probnaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\obj\Debug\net6.0\Probnaya.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\obj\Debug\net6.0\Probnaya.AssemblyInfo.cs
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\obj\Debug\net6.0\Probnaya.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\obj\Debug\net6.0\Probnaya.dll
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\obj\Debug\net6.0\refint\Probnaya.dll
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\obj\Debug\net6.0\Probnaya.pdb
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\obj\Debug\net6.0\Probnaya.genruntimeconfig.cache
+C:\Users\1\Desktop\Обучение ID\C#\Homework08\Probnaya\obj\Debug\net6.0\ref\Probnaya.dll
